@@ -1,0 +1,9 @@
+Es un proyecto fullstack MERN.
+
+si bien el tutorial usa chackra UI para el diseño, yo usé bootstrap. Por eso hay muchas cosas que estan muy cambiadas. pero la parte logica es bastante parecida. El backend está prácticamente igual que en el vídeo.
+
+https://www.youtube.com/watch?v=O3BUHwfHf84&t=14s
+
+MERN Stack Tutorial with Deployment – Beginner's Course
+
+Lo que destaco es que aprendí sobre zustand, lo use en el front, en la carpeta /src/store/product.js. Me parece una muy buena práctica. ah también use fetch y no axios.
