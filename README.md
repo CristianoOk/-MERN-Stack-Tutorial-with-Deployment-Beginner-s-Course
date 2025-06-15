@@ -8,3 +8,6 @@ COSAS QUE TNEÉS QUE TENER EN CUENTA:
 6. DOS imagenes, una de como le quedo al chico del tutoorial de YouTube, que para el diseño usó chakra UI; mientra que yo usé bootstrap, porque no funcionaba lo que hacía, supongo se debe a actualizaciones. Igual lo que a mi me importaba era la lógica en general, no tanto la parte visual :):
 ![image](https://github.com/user-attachments/assets/226056c5-95f4-4cff-bfb8-8454245d8d55)
 ![image](https://github.com/user-attachments/assets/289e45ac-af3d-409d-ad85-176aa8b86146)
+
+7. COMO ESTOY HACIENDO ESTE REPOSITORIO PUBLIC, POR RAZONES DE SEGURIDAD VOY A RESTRINGIR EL ACCESO A LA BASE DE DATOS (YA NO SE VA A PODER ACCEDER DE CUALQUIER IP, MIENTRAS CREABA EL PROYECTO PUSE QUE SE PUEDA PERO YA NO). TE DEJO UNA IMAGEN SCREENSHOT PARA QUE MASOMENOS TE UBIQUES CUAL ES LA SECCIÓN A LA QUE DEBERÍAS IR PARA HACER ESTE TIPO DE CAMBIOS:
+![image](https://github.com/user-attachments/assets/45a5ecd4-7c3f-4693-8185-0d69448187a4)
